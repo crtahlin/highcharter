@@ -26,6 +26,7 @@ Imports:
     htmlwidgets,
     magrittr,
     purrr,
+    purrlyr,
     rlist,
     assertthat,
     zoo,
